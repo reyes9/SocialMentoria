@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#e8e8e7"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#040404"
+        android:gravity="center|center"
+        android:layout_weight="10"
+        android:text="Descriu com ha anat la trobada" />
+    <EditText
+        android:id="@+id/textContent"
+        android:inputType="textMultiLine"
+        android:background="@android:color/background_light"
+        android:gravity="top|left"
+        android:padding="2dp"
+        android:layout_margin="5dp"
+        android:textColor="@android:color/black"
+        android:layout_height="0px"
+        android:layout_width="fill_parent"
+        android:layout_weight="70"
+        android:scrollbars="vertical" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:gravity="center_vertical"
+        android:layout_weight="20"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_height="0px"
+        android:minWidth="25px"
+        android:minHeight="25px">
+        <Button
+            android:id="@+id/Erase"
+            android:layout_width="0px"
+            android:layout_height="38dp"
+            android:layout_gravity="center_horizontal"
+            android:text="Esborrar-ho tot"
+            android:textColor="#fff"
+            android:layout_weight="50"
+            android:textSize="13dp"
+            android:background="#b51342" />
+        <Button
+            android:id="@+id/Submit"
+            android:layout_width="0px"
+            android:layout_height="38dp"
+            android:layout_gravity="center_horizontal"
+            android:text="Guardar"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="50"
+            android:textColor="#fff"
+            android:textSize="13dp"
+            android:background="#13b586" />
+    </LinearLayout>
+</LinearLayout>

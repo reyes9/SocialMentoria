@@ -1,0 +1,9 @@
+D:\USUARIS\reyes.vera\Desktop\socialmentorapp.git\UITests\bin\Debug\SocialMentorApp.UITests.dll
+D:\USUARIS\reyes.vera\Desktop\socialmentorapp.git\UITests\bin\Debug\SocialMentorApp.UITests.pdb
+D:\USUARIS\reyes.vera\Desktop\socialmentorapp.git\UITests\bin\Debug\nunit.framework.dll
+D:\USUARIS\reyes.vera\Desktop\socialmentorapp.git\UITests\bin\Debug\Xamarin.UITest.dll
+D:\USUARIS\reyes.vera\Desktop\socialmentorapp.git\UITests\bin\Debug\nunit.framework.xml
+D:\USUARIS\reyes.vera\Desktop\socialmentorapp.git\UITests\bin\Debug\Xamarin.UITest.xml
+D:\USUARIS\reyes.vera\Desktop\socialmentorapp.git\UITests\obj\Debug\SocialMentorApp.UITests.csprojResolveAssemblyReference.cache
+D:\USUARIS\reyes.vera\Desktop\socialmentorapp.git\UITests\obj\Debug\SocialMentorApp.UITests.dll
+D:\USUARIS\reyes.vera\Desktop\socialmentorapp.git\UITests\obj\Debug\SocialMentorApp.UITests.pdb
